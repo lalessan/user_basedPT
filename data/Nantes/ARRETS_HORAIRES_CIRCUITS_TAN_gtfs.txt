@@ -1,0 +1,64 @@
+
+================================================
+TITRE DU JEU DE DONNEES
+================================================
+
+Arrêts, horaires et circuits TAN
+
+================================================
+DESCRIPTION
+================================================
+Liste des arrêts, horaires et parcours de tous les bus et tramways de la SEMITAN circulant
+sur le territoire de Nantes Métropole.
+
+Thèmes 							: Mobilité
+Documentation 					: Format GTFS : https://developers.google.com/transit/gtfs/reference
+		Format NEPTUNE : http://www.chouette.mobi/normes/spip.php?rubrique17
+		
+
+================================================
+INFORMATIONS TECHNIQUES
+================================================
+
+Date de dernière mise à jour    : 18/08/2014
+Fréquence de mise à jour 		: Variable
+Couverture Temporelle : Données valides du 25/08/2014 au 10/07/2015 
+
+Derniere mise à jour technique	:
+
+	Date : 18/08/2014
+	Nature de la modification : Version 15H1-ExportGTFS-V1 du 06/08/14
+	Description de la modification : Version 15H1-ExportGTFS-V1 du 06/08/14 : données hiver 2014/2015 valables du 25/08/2014 au 10/07/2015
+
+================================================
+ATTRIBUTS
+================================================
+
+
+ 
+
+================================================
+CONTACT
+================================================
+
+Pour toute demande d'information ou remarque, 
+merci de passer par le forum du site http://data.nantes.fr
+
+================================================
+INFORMATIONS LEGALES
+================================================
+
+
+Propriétaire : Nantes Métropole
+
+Gestionnaire : Semitan
+
+Diffuseur	 : Nantes Métropole
+
+Licence      : Open Database License (ODbL)
+
+================================================
+SIGNATURES DES FICHIERS
+================================================
+
+ARRETS_HORAIRES_CIRCUITS_TAN_GTFS.zip (md5) : 0787253871b5adba9a96481b5d12e939

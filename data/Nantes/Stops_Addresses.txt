@@ -1,0 +1,1039 @@
+StopArea:LAIL , 82 Rue Jules Vallès, 44340 Bouguenais, France
+StopArea:PSOR , 2 Rue des Papillons, 44840 Les Sorinières, France
+StopArea:DRID , 28 Rue de la Basse Chênaie, 44300 Nantes, France
+StopArea:HDIE , 66 Route de Portillon, 44120 Vertou, France
+StopArea:VERL , 34-36 Avenue du Parnasse, 44800 Saint-Herblain, France
+StopArea:EVET , 108 Route de Gachet, 44300 Nantes, France
+StopArea:MDTH , Médiathèque, 44000 Nantes, France
+StopArea:BANS , 373 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:BGAR , 10 Boulevard Emile Gabory, 44200 Nantes, France
+StopArea:SAGL , 6188 Rue du Pressoir, 44860 Saint-Aignan-Grandlieu, France
+StopArea:MGAL , 13 Rue de la Malnoue, 44470 Thouaré-sur-Loire, France
+StopArea:CVDO , 31-33 Rue de la Papotière, 44300 Nantes, France
+StopArea:CRSA , 86 Boulevard Jules Verne, 44300 Nantes, France
+StopArea:LMAR , 129 Rue Beau Soleil, 44340 Bouguenais, France
+StopArea:EGLI , 20 Boulevard Léon Jouhaux, 44100 Nantes, France
+StopArea:CHFL , 8 Rue des Arrentes, 44840 Les Sorinières, France
+StopArea:CNON , 123-127 Rue de Mauves, 44470 Thouaré-sur-Loire, France
+StopArea:VFOU , 30-40 D58, 44640 Saint-Jean-de-Boiseau, France
+StopArea:GONI , 5 Boulevard Jacques Demy, 44240 La Chapelle-sur-Erdre, France
+StopArea:MLRA , 12 Rue du Champ de Tir, 44300 Nantes, France
+StopArea:MATI , 382 Rue des Étangs, 44470 Thouaré-sur-Loire, France
+StopArea:FBLA , 72 Rue de la Bourgeonnière, 44300 Nantes, France
+StopArea:GDRE , 98 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:JUME , 14 D37, 44470 Carquefou, France
+StopArea:BOND , 9 Rue Sully, 44000 Nantes, France
+StopArea:PTEC , Boulevard des Européens, 44300 Nantes, France
+StopArea:GASS , 3 Boulevard de Cardiff, 44100 Nantes, France
+StopArea:CHOC , 128 Boulevard Jules Verne, 44300 Nantes, France
+StopArea:BSOL , 39 Rue Beau Soleil, 44340 Bouguenais, France
+StopArea:COET , Les Couëts, 44340 Bouguenais, France
+StopArea:SDON , 94-96 Rue Général Buat, 44000 Nantes, France
+StopArea:GERA , 36 Boulevard Albert Einstein, 44300 Nantes, France
+StopArea:RPCH , 108 Rue du Corps de Garde, 44100 Nantes, France
+StopArea:PALL , 6 Rue Dos d'Âne, 44610 Indre, France
+StopArea:RCPE , 7 Route de la Chapelle-sur-Erdre, 44300 Nantes, France
+StopArea:MHAT , 81 Boulevard Ernest Dalby, 44000 Nantes, France
+StopArea:CSVA , 2-6 Rue Gaëtan Rondeau, 44200 Nantes, France
+StopArea:CCOU , 3 Boulevard des Tribunes, 44300 Nantes, France
+StopArea:BRLA , 530 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:DPBL , 73 Rue du Bêle, 44300 Nantes, France
+StopArea:DERV , 157 Boulevard du Massacre, 44100 Nantes, France
+StopArea:CUVI , 22-26 Boulevard de Launay, 44100 Nantes, France
+StopArea:BJLI , 12 Rue Beau Soleil, 44340 Bouguenais, France
+StopArea:BDLA , Avenue du Bout des Landes, 44300 Nantes, France
+StopArea:BSAN , 18 Rue Bobby Sands, 44800 Saint-Herblain, France
+StopArea:TPOD , Boulevard Général de Gaulle, 44200 Nantes, France
+StopArea:POON , 496-498 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:RLON , 113 Boulevard Robert Schuman, 44300 Nantes, France
+StopArea:SLAU , 19 Rue Charles Roger, 44100 Nantes, France
+StopArea:TROC , Trocardière, 44400 Rezé, France
+StopArea:ANTO , 130 Avenue Claude Antoine Peccot, 44700 Orvault, France
+StopArea:TEBS , 39 Rue du Pellerin, 44640 Saint-Jean-de-Boiseau, France
+StopArea:HAVE , Halvêque, 44300 Nantes, France
+StopArea:JJNA , Jean Jaurès, 44000 Nantes, France
+StopArea:ECLI , 58 Rue du Moulin Soline, 44115 Basse-Goulaine, France
+StopArea:MOVA , 2-14 D42, 44700 Orvault, France
+StopArea:FRMO , D58, 44120 Vertou, France
+StopArea:BRGA , 13 Rue de la Gare, 44800 Saint-Herblain, France
+StopArea:BUON , Rue Ginsheim Gustavsburg, 44340 Bouguenais, France
+StopArea:PLNA , 39 Rue Jean Jacques Audubon, 44220 Couëron, France
+StopArea:SJEA , 51-53 Rue Robert Douineau, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CLTT , 80-84 Rue du Coudray, 44000 Nantes, France
+StopArea:ONCH , 6270 Rue des Landes de la Plée, 44115 Basse-Goulaine, France
+StopArea:CACE , 15 Rue Notre Dame la Blanche, 44470 Carquefou, France
+StopArea:MLDR , 354 Route de Clisson, 44230 Vertou, France
+StopArea:FORU , Avenue Claude Antoine Peccot, 44700 Orvault, France
+StopArea:CLOT , 33 Rue Charles de Gaulle, 44640 Saint-Jean-de-Boiseau, France
+StopArea:QANT , 78 Boulevard de la Prairie au Duc, 44200 Nantes, France
+StopArea:SPSA , 10 Rue Aristide Briand, 44400 Rezé, France
+StopArea:PCBI , 94 Route de Rennes, 44700 Nantes, France
+StopArea:DANU , Avenue de la Loire, 44470 Carquefou, France
+StopArea:INRE , D107, 44610 Indre, France
+StopArea:LLIO , 272-274 Route de Vannes, 44700 Orvault, France
+StopArea:BOGE , 10-12 Rue Jean Poulain, 44300 Nantes, France
+StopArea:BLEM , 19-21 Rue du Belem, 44470 Thouaré-sur-Loire, France
+StopArea:XBON , Croix Bonneau, 44100 Nantes, France
+StopArea:CCDI , 273 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:MRIE , 23 Rue de la Maurienne, 44470 Thouaré-sur-Loire, France
+StopArea:SPHI , 34 Allée de la Bourgonnière, 44800 Saint-Herblain, France
+StopArea:NOHH , 20 Avenue du Maréchal de Tassigny, 44400 Rezé, France
+StopArea:JTIC , 24 Rue Jean Monnet, 44800 Saint-Herblain, France
+StopArea:PTON , 3 D58, 44120 Vertou, France
+StopArea:ZOLA , 120 Boulevard de l'Égalité, 44100 Nantes, France
+StopArea:RAGO , 35 Rue Ernest Sauvestre, 44400 Rezé, France
+StopArea:FOUL , 15 Avenue des Perrières, 44240 La Chapelle-sur-Erdre, France
+StopArea:MEDI , 1 Avenue des Villages, 44470 Carquefou, France
+StopArea:BENA , Boulevard Général de Gaulle, 44200 Nantes, France
+StopArea:TLDI , 1 Rue du Pellerin, 44640 Saint-Jean-de-Boiseau, France
+StopArea:MLCH , 7 Route du Drouillet, 44120 Vertou, France
+StopArea:PMTR , 53 Rue de Nantes, 44470 Thouaré-sur-Loire, France
+StopArea:PLGU , Rue Jacques Duclos, 44300 Nantes, France
+StopArea:SRTR , 11 Résidence le Tisserand, 44800 Saint-Herblain, France
+StopArea:JHDI , 1 Route de la Gendronnerie, 44860 Saint-Aignan-Grandlieu, France
+StopArea:CRTI , 70-72 Rue du Château d'Eau, 44240 La Chapelle-sur-Erdre, France
+StopArea:SYRM , 27 Rue Véga, 44470 Carquefou, France
+StopArea:COLI , 142 Rue du Landreau, 44300 Nantes, France
+StopArea:CBSS , 30-39 Rue Maurice Daniel, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:DLLE , 25 Rue Jan Palach, 44220 Couëron, France
+StopArea:BSTI , D58, 44120 Vertou, France
+StopArea:LFER , 8 Rue de la Ferme, 44880 Sautron, France
+StopArea:CHTE , 34 Rue Saint-Jacques, 44200 Nantes, France
+StopArea:TJOI , 4 Rue Alexandre Dumas, 44000 Nantes, France
+StopArea:IRLA , 29 Rue de la Garotterie, 44800 Saint-Herblain, France
+StopArea:PSAU , 300 Route de Vannes, 44700 Orvault, France
+StopArea:MIMO , Avenue des Mimosas, 44700 Nantes, France
+StopArea:HBAN , 18 Boulevard des Antilles, 44200 Nantes, France
+StopArea:OGVA , 43 Boulevard Mendès France, 44700 Orvault, France
+StopArea:CBTE , 33-43 D76, 44120 Vertou, France
+StopArea:BEGE , 56-58 Boulevard Eugène Orieux, 44300 Nantes, France
+StopArea:PELO , 7 Rue du 16 Septembre, 44800 Saint-Herblain, France
+StopArea:JVRA , Boulevard Bâtonnier Cholet, 44100 Nantes, France
+StopArea:GMAR , Gare Maritime, 44100 Nantes, France
+StopArea:ADPI , 24-40 Avenue Alexandre Goupil, 44700 Orvault, France
+StopArea:LAMA , 42-46 Rue Lamartine, 44100 Nantes, France
+StopArea:RDNT , 12 Rue de Nantes, 44840 Les Sorinières, France
+StopArea:EUCA , 11 Rue de la Grande Bretagne, 44470 Carquefou, France
+StopArea:FDLE , 7 Chemin de la Censive du Tertre, 44300 Nantes, France
+StopArea:HARO , 28bis Boulevard Gabriel Guist'Hau, 44000 Nantes, France
+StopArea:CORA , 31 Boulevard Mendès France, 44700 Orvault, France
+StopArea:PTNE , 185-189 Boulevard Jules Verne, 44300 Nantes, France
+StopArea:BOUE , 28-34 Rue des Piliers de la Chauvinière, 44800 Saint-Herblain, France
+StopArea:ABDU , 2 Boulevard du Tertre, 44800 Saint-Herblain, France
+StopArea:CCRE , 8 Rue de la Butte de Praud, 44400 Rezé, France
+StopArea:POLE , 3 Rue de la Mulonnière, 44700 Orvault, France
+StopArea:BLLE , 1 Route du Tour, 44830 Bouaye, France
+StopArea:DEGL , 74 Avenue Charles de Gaulle, 44700 Orvault, France
+StopArea:BAIR , 77-79 Rue Paul Bellamy, 44000 Nantes, France
+StopArea:ENCO , D751A, 44710 Saint-Léger-les-Vignes, France
+StopArea:PRNE , 10 Boulevard Auguste Peneau, 44300 Nantes, France
+StopArea:FLEU , D37, 44470 Carquefou, France
+StopArea:GTVE , 5 Rue Gaston Veïl, 44000 Nantes, France
+StopArea:PSME , 4 Place Saint-Méen, 44850 Le Cellier, France
+StopArea:MNTR , 11 Rue Augustin Fresnel, 44300 Nantes, France
+StopArea:MLAN , Rue du Pacifique, 44115 Basse-Goulaine, France
+StopArea:FRBA , D42, 44700 Orvault, France
+StopArea:BVDI , 86 Avenue des Naudières, 44800 Saint-Herblain, France
+StopArea:CUGA , 2 Rue de la Gare, 44220 Couëron, France
+StopArea:ODLA , 72-74 Rue des Plantes, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:EUVE , 23 Boulevard de l'Europe, 44120 Vertou, France
+StopArea:REYN , 5 Rue de la Reynière, 44700 Orvault, France
+StopArea:GIBR , 43 Rue de la Baugerie, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MRGE , 15 Boulevard des Sports, 44120 Vertou, France
+StopArea:RCUU , D17, 44800 Saint-Herblain, France
+StopArea:BABI , D58, 44120 Vertou, France
+StopArea:VTOU , 8 Rue de l'Hôpital, 44120 Vertou, France
+StopArea:MNVE , 20 Rue Louis Blériot, 44980 Sainte-Luce-sur-Loire, France
+StopArea:SEIL , 16 Avenue du Maréchal de Tassigny, 44400 Rezé, France
+StopArea:AQUI , 37 Rue d'Aquitaine, 44800 Saint-Herblain, France
+StopArea:NRCA , 100-104 D115, 44120 Vertou, France
+StopArea:BYEE , 33-37 D11, 44830 Bouaye, France
+StopArea:TEGO , 109 Rue du Grignon, 44115 Basse-Goulaine, France
+StopArea:COHO , 2-4 Rue Gustave Eiffel, 44980 Sainte-Luce-sur-Loire, France
+StopArea:BRBI , 129 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:UTLO , 9 Rue du Bas Landreau, 44400 Rezé, France
+StopArea:SMAR , 106 Boulevard de la Libération, 44220 Couëron, France
+StopArea:BORL , 20 Rue des Gobets, 44120 Vertou, France
+StopArea:ECSU , 25 Route de la Jonelière, 44300 Nantes, France
+StopArea:OCOR , 108 Route de la Garenne, 44700 Orvault, France
+StopArea:GVNO , 476-478 Route de Clisson, 44230 Vertou, France
+StopArea:MOUT , Moutonnerie, 44000 Nantes, France
+StopArea:BLZZ , 127 Boulevard Robert Schuman, 44300 Nantes, France
+StopArea:SJAC , 28 Rue Frère Louis, 44200 Nantes, France
+StopArea:BETO , 766-784 D37, 44470 Thouaré-sur-Loire, France
+StopArea:MDOU , Mairie de Doulon, 44300 Nantes, France
+StopArea:PRRI , 3 Avenue des Perrières, 44240 La Chapelle-sur-Erdre, France
+StopArea:CPRE , 78 Rue de la Papotière, 44300 Nantes, France
+StopArea:GBOI , 72 Boulevard du Massacre, 44800 Saint-Herblain, France
+StopArea:BSYS , Avenue des Argonautes, 44470 Carquefou, France
+StopArea:IDNA , Boulevard Général de Gaulle, 44200 Nantes, France
+StopArea:JANA , 40 Rue du Jaunais, 44400 Rezé, France
+StopArea:UGAZ , 8-26 Quai Emile Cormerais, 44800 Saint-Herblain, France
+StopArea:FOND , Rue des Boires, 44200 Nantes, France
+StopArea:POST , 26-28 Avenue des Noieries, 44240 La Chapelle-sur-Erdre, France
+StopArea:BGCY , 42-46 Rue de la Fontaine, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MLIN , 270-272 Route de Clisson, 44230 Vertou, France
+StopArea:BLAV , 26 Rue de la Rivière, 44240 La Chapelle-sur-Erdre, France
+StopArea:CRBE , 22 Rue de la Haute Lande, 44840 Les Sorinières, France
+StopArea:LPLE , 350-352 Rue des Landes de la Plée, 44115 Basse-Goulaine, France
+StopArea:MRRI , 3 Rue de la Bottière, 44300 Nantes, France
+StopArea:JLVE , 130B Route de Clisson, 44200 Nantes, France
+StopArea:SFEL , 4 Boulevard Michelet, 44000 Nantes, France
+StopArea:GDOU , 6 Rue de la Grande Ouche, 44340 Bouguenais, France
+StopArea:SNTA , 12 Rue Dobree, 44100 Nantes, France
+StopArea:DUKA , 58 Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:CTRE , 45 Route de Gachet, 44300 Nantes, France
+StopArea:HIPP , 23 Boulevard des Tribunes, 44300 Nantes, France
+StopArea:TMLI , Tourmaline, 44800 Saint-Herblain, France
+StopArea:PICA , 22 Mail Pablo Picasso, 44000 Nantes, France
+StopArea:ROET , 33 Rue des Papillons, 44840 Les Sorinières, France
+StopArea:SAUP , 4 Rue du Progrès, 44000 Nantes, France
+StopArea:SCRE , 158 Quai Emile Cormerais, 44800 Saint-Herblain, France
+StopArea:ZENI , 4 Rue Edith Piaf, 44800 Saint-Herblain, France
+StopArea:PLES , 3 Rue du Plessis, 44240 La Chapelle-sur-Erdre, France
+StopArea:GMOL , 26 Rue du Fresche Blanc, 44300 Nantes, France
+StopArea:GOCH , 3 Rue de Bretagne, 44115 Basse-Goulaine, France
+StopArea:MAI8 , 54 Avenue de la Libération, 44400 Rezé, France
+StopArea:AUGE , 27 Rue de Villeneuve, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CROU , 14 Route de Paris, 44300 Nantes, France
+StopArea:GAMB , 6 Rue Gambetta, 44000 Nantes, France
+StopArea:CHZY , 139 Rue Général Buat, 44000 Nantes, France
+StopArea:APAV , 10 Rue de la Johardière, 44800 Saint-Herblain, France
+StopArea:BNON , Bignon, 44700 Orvault, France
+StopArea:RREN , 24-26 Boulevard des Frères de Goncourt, 44000 Nantes, France
+StopArea:PBAI , 37-49 Route de la Gare, 44120 Vertou, France
+StopArea:TMOU , 102-104 Rue Aristide Briand, 44400 Rezé, France
+StopArea:CLBO , 123-135 Rue Victor Hugo, 44400 Rezé, France
+StopArea:LAGE , 9-13 Rue du Largeau, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:GIQU , 216-224 Route de Thouaré, 44980 Sainte-Luce-sur-Loire, France
+StopArea:GELL , 60 Rue des Rédras, 44120 Vertou, France
+StopArea:SCHW , 6 Rue Albert Schweitzer, 44470 Carquefou, France
+StopArea:STXU , 340-416 Rue Antoine de Saint-Exupéry, 44860 Saint-Aignan-Grandlieu, France
+StopArea:MPAU , 87 Avenue de l'Angevinière, 44800 Saint-Herblain, France
+StopArea:MMSS , 31 Rue Jean Mermoz, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:FRCH , 100-102 Route du Vignoble, 44120 Vertou, France
+StopArea:GLAU , 37 Avenue du Parc de Procé, 44100 Nantes, France
+StopArea:HFVE , 57 Boulevard de l'Europe, 44120 Vertou, France
+StopArea:ECHO , 74 Rue de Nantes, 44830 Bouaye, France
+StopArea:BCES , Avenue de la Bugallière, 44700 Orvault, France
+StopArea:CBOU , 42 Rue de Bretagne, 44220 Couëron, France
+StopArea:LLMO , D751A, 44710 Saint-Léger-les-Vignes, France
+StopArea:CSGR , 408-416 Route de Clisson, 44230 Vertou, France
+StopArea:QSCO , 11-13 Quai Robert Surcouf, 44400 Rezé, France
+StopArea:SOUI , Souillarderie, 44300 Nantes, France
+StopArea:MCUR , 17 Rue Victor Hugo, 44400 Rezé, France
+StopArea:BUGA , Avenue de la Bugallière, 44700 Orvault, France
+StopArea:MVAN , D59, 44120 Vertou, France
+StopArea:CAPE , 46 Rue du Château d'Eau, 44240 La Chapelle-sur-Erdre, France
+StopArea:ADBO , 27 Boulevard Paul Langevin, 44220 Couëron, France
+StopArea:META , 138-142 D17, 44220 Couëron, France
+StopArea:OCAN , 317 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:ZIMM , 13-15 Place de l'Abbé Chérel, 44800 Saint-Herblain, France
+StopArea:SBLL , 27 Rue Docteur Jules Sebilleau, 44200 Nantes, France
+StopArea:NCTE , 87 Rue des Plantes, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:OMRL , Orvault-Morlière, 44700 Orvault, France
+StopArea:LACH , 82 Boulevard des Martyrs de la Résistance, 44220 Couëron, France
+StopArea:BTLE , 86 Rue Gambetta, 44000 Nantes, France
+StopArea:IMPR , 57 Rue des Vignerons, 44220 Couëron, France
+StopArea:CRPO , 19 Rue de Criport, 44120 Vertou, France
+StopArea:AMOR , 4 Rue Edith Piaf, 44800 Saint-Herblain, France
+StopArea:PCTI , 13 Place d'Auteuil, 44700 Orvault, France
+StopArea:PSEV , 33 Boulevard Guichet Serex, 44120 Vertou, France
+StopArea:TMSS , 51-53 Rue Félix Lemoine, 44300 Nantes, France
+StopArea:BBAU , 8 Rue de la Blanche, 44800 Saint-Herblain, France
+StopArea:CP3R , 27 Rue du Vivier, 44400 Rezé, France
+StopArea:PLCL , 12 Avenue Ambroise Paré, 44800 Saint-Herblain, France
+StopArea:FANE , 172 D17, 44220 Couëron, France
+StopArea:TMET , 10-12 Route du Vignoble, 44120 Vertou, France
+StopArea:CATI , 20 Rue du Belem, 44470 Thouaré-sur-Loire, France
+StopArea:CFOI , 22 Route du Champ de Foire, 44860 Saint-Aignan-Grandlieu, France
+StopArea:TILL , 2 Avenue Condorcet, 44800 Saint-Herblain, France
+StopArea:DUNA , 24 Boulevard Henri Dunant, 44300 Nantes, France
+StopArea:HOGR , 2 Rue de Chypre, 44000 Nantes, France
+StopArea:FLRI , 75 Rue de la Durantière, 44100 Nantes, France
+StopArea:DNAI , 48 Rue des Renardières, 44100 Nantes, France
+StopArea:BEVA , 23 D11, 44830 Bouaye, France
+StopArea:RTSC , 40 Rue de la Bourgeonnière, 44300 Nantes, France
+StopArea:RBNI , 40-42 Rue de la Robinière, 44400 Rezé, France
+StopArea:BNCH , 44 Rue Hervé le Guyader, 44240 La Chapelle-sur-Erdre, France
+StopArea:HVTI , 16B Rue du Bois Briand, 44300 Nantes, France
+StopArea:BEDR , D751A, 44340 Bouguenais, France
+StopArea:CLGE , Route du Loroux Bottereau, 44230 Basse-Goulaine, France
+StopArea:BIEE , 36 Rue de Bretagne, 44220 Couëron, France
+StopArea:PIEA , 16 Route des Mares, 44830 Bouaye, France
+StopArea:PDAN , 20-22 Rue du Domaine, 44120 Vertou, France
+StopArea:AMCA , Avenue de la Pentecôte, 44880 Orvault, France
+StopArea:TRNE , 8 Boulevard de la Chauvinière, 44300 Nantes, France
+StopArea:MCHA , Place de la Liberté, 44100 Nantes, France
+StopArea:MBCH , 2 Boulevard de La Baule, 44800 Saint-Herblain, France
+StopArea:ECOS , 1 Rue d'Angleterre, 44000 Nantes, France
+StopArea:LEGU , 10-12 Rue Anatole de Monzie, 44200 Nantes, France
+StopArea:CVLE , 84 Route de la Jonelière, 44300 Nantes, France
+StopArea:EQPE , 7 Boulevard Auguste Pageot, 44000 Nantes, France
+StopArea:CMAR , Cours des 50 Otages, 44000 Nantes, France
+StopArea:BULA , 106 Route des Sorinières, 44120 Vertou, France
+StopArea:PPTR , 61 Rue de la Papotière, 44300 Nantes, France
+StopArea:RBRN , 61 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:BSIS , 39-41 D17, 44220 Couëron, France
+StopArea:LCEE , 76-118 Rue Charles Rivière, 44400 Rezé, France
+StopArea:CMOU , 32 Rue des Arrentes, 44840 Les Sorinières, France
+StopArea:NDRE , 10 Rue du Moulin Guibreteau, 44400 Rezé, France
+StopArea:PGTI , Route de la Noue, 44860 Saint-Aignan-Grandlieu, France
+StopArea:GLNE , 83 Boulevard Georges Pompidou, 44200 Nantes, France
+StopArea:XTRU , 33 Rue de la Croix Truin, 44640 Saint-Jean-de-Boiseau, France
+StopArea:EBCA , 2 Rue Emmanuel Mocquard, 44610 Indre, France
+StopArea:SVIN , Avenue de la Bugallière, 44700 Orvault, France
+StopArea:SNUC , 80 Boulevard des Anglais, 44100 Nantes, France
+StopArea:APER , 7 Boulevard Ampère, 44470 Carquefou, France
+StopArea:PNAN , 37 Boulevard Jean Ingres, 44100 Nantes, France
+StopArea:BRTA , 2 Rue du Pont Sauvetout, 44000 Nantes, France
+StopArea:JBAR , 24 Quai Victor Boquien, 44610 Indre, France
+StopArea:TBER , 26 Allée des Touzelles, 44115 Basse-Goulaine, France
+StopArea:MTRA , 48 Route du Champ de Foire, 44860 Saint-Aignan-Grandlieu, France
+StopArea:AESP , 78-88 D823, 44340 Bouguenais, France
+StopArea:ESUE , 13-15 Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:BVOI , 22-24 Rue de Beauvoir, 44340 Bouguenais, France
+StopArea:FNLL , 23 Rue Augustin Fresnel, 44300 Nantes, France
+StopArea:ANGE , 3-17 D42, 44700 Orvault, France
+StopArea:RCHE , 1 L'Angebardière, 44120 Vertou, France
+StopArea:PBER , 2 Rue de la Durantière, 44100 Nantes, France
+StopArea:HIND , 19-21 Rue Denis Rivière, 44610 Indre, France
+StopArea:LDSS , 35 Rue de la Classerie, 44400 Rezé, France
+StopArea:PAMI , 43bis Route de Vertou, 44200 Nantes, France
+StopArea:PRZE , 88 Route des Sorinières, 44400 Rezé, France
+StopArea:DAKK , 10 Rue du Danemark, 44470 Carquefou, France
+StopArea:HBRA , 12-32 Route de la Fremoire, 44120 Vertou, France
+StopArea:AUCP , D69, 44240 La Chapelle-sur-Erdre, France
+StopArea:LAXX , 55-71 D58, 44120 Vertou, France
+StopArea:BILE , 18 Boulevard Victor Schoelcher, 44400 Rezé, France
+StopArea:LCNE , 27-29 D58, 44120 Vertou, France
+StopArea:PSIN , 5B Quai Langlois, 44610 Indre, France
+StopArea:CTYY , 34 Rue du Président Coty, 44980 Sainte-Luce-sur-Loire, France
+StopArea:NONO , 9-19 D11, 44860 Saint-Aignan-Grandlieu, France
+StopArea:CHLI , 53 Avenue de la Cholière, 44700 Orvault, France
+StopArea:MAZE , 37 Rue des Mazères, 44850 Le Cellier, France
+StopArea:SADU , 3 Rue Santos Dumont, 44300 Nantes, France
+StopArea:SRDI , 28 Rue Charles Monselet, 44000 Nantes, France
+StopArea:EINS , 31 Boulevard Albert Einstein, 44300 Nantes, France
+StopArea:UBRU , 124 Quai Emile Cormerais, 44800 Saint-Herblain, France
+StopArea:FERI , 95 Avenue de la Ferrière, 44700 Orvault, France
+StopArea:CBLE , 21 Rue de la Chaussée, 44400 Rezé, France
+StopArea:BDPA , 83 Route de Rennes, 44700 Orvault, France
+StopArea:PRTE , D58, 44120 Vertou, France
+StopArea:JJCE , 3 Rue Jean Jaurès, 44240 La Chapelle-sur-Erdre, France
+StopArea:DAYA , 21 Rue Jean Jaurès, 44610 Indre, France
+StopArea:NATL , Aéroport Nantes Atlantique, 44340 Bouguenais, France
+StopArea:ZDCO , 6159 Rue des Coteaux de Grandlieu, 44830 Bouaye, France
+StopArea:MHUI , 131 Rue du Moulin à l'Huile, 44400 Rezé, France
+StopArea:KOUF , 204 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:JGUE , 56 Rue de l'Aérodrome, 44400 Rezé, France
+StopArea:PABO , 36 Rue Jules Ferry, 44340 Bouguenais, France
+StopArea:COCH , 18 Rue Pitre Chevalier, 44000 Nantes, France
+StopArea:MCCO , 36-38 Rue de Monaco, 44300 Nantes, France
+StopArea:VALL , 49 Route de Rennes, 44700 Orvault, France
+StopArea:BGTT , 24 Avenue des Naudières, 44800 Saint-Herblain, France
+StopArea:MNIE , 23 Rue de Saint-Aignan, 44830 Bouaye, France
+StopArea:JARI , 9-11 Boulevard des Martyrs de la Résistance, 44220 Couëron, France
+StopArea:TOTR , 2 Boulevard Eugène Orieux, 44000 Nantes, France
+StopArea:MOET , 17 Boulevard de l'Océan, 44220 Couëron, France
+StopArea:RAVA , 47 Rue des Coteaux, 44340 Bouguenais, France
+StopArea:BCOI , 12-14 Rue Maurice Garin, 44100 Nantes, France
+StopArea:LANA , 79 Route de la Garenne, 44700 Orvault, France
+StopArea:PATR , 11 Rue du Pâtis Rondin, 44300 Nantes, France
+StopArea:RUET , 106 Rue du Landreau, 44300 Nantes, France
+StopArea:LGGE , 28 Boulevard François Blancho, 44220 Couëron, France
+StopArea:PLTI , 5 Rue du Seil, 44400 Rezé, France
+StopArea:CVER , 186-188 Route de Clisson, 44230 Vertou, France
+StopArea:VDNI , D751A, 44340 Bouguenais, France
+StopArea:SOCH , 44 Avenue du Souchais, 44470 Carquefou, France
+StopArea:PTBO , 85 Route de Bouguenais, 44620 La Montagne, France
+StopArea:HVCQ , 38 Rue François René de Châteaubriand, 44470 Carquefou, France
+StopArea:PSPO , 66 Rue de Nantes, 44470 Thouaré-sur-Loire, France
+StopArea:VEIE , D69, 44240 La Chapelle-sur-Erdre, France
+StopArea:CLVA , 43 Rue des Papillons, 44840 Les Sorinières, France
+StopArea:MBRU , 4-10 Rue de Nantes, 44880 Sautron, France
+StopArea:GRIM , 40 Rue des Frères Grimm, 44800 Saint-Herblain, France
+StopArea:GPRO , Gare de Pont-Rousseau C, 44400 Rezé, France
+StopArea:GCSO , 65 Rue de la Garde, 44300 Nantes, France
+StopArea:CMNE , 1 Rue des Bignons, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:PEGE , 2-5 Rue de la Grande Île, 44120 Vertou, France
+StopArea:REFR , 31 Rue de Sucé, 44240 La Chapelle-sur-Erdre, France
+StopArea:MVSI , Boulevard de Vendée, 44200 Nantes, France
+StopArea:BAUG , 32B Rue de la Baugerie, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MAAR , 33 Rue Saint-Joseph, 44700 Orvault, France
+StopArea:GIND , Rue des Maures, 44800 Saint-Herblain, France
+StopArea:GDEN , 70 Rue des Rédras, 44120 Vertou, France
+StopArea:IROI , 21 Rue des Salles de l'Eraudière, 44300 Nantes, France
+StopArea:NBEL , 33 Rue de la Mainguais, 44300 Carquefou, France
+StopArea:BLGO , 1 Boulevard de la Libération, 44220 Couëron, France
+StopArea:PTRE , 103 Rue des Plantes, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:RMNE , Romanet, 44100 Saint-Herblain, France
+StopArea:AMPE , Boulevard du Capitaine Dreyfus, 44240 La Chapelle-sur-Erdre, France
+StopArea:JNAI , 89 D17, 44220 Couëron, France
+StopArea:RGNI , 8-12 D76, 44120 Vertou, France
+StopArea:JMON , 59 Rue du Général de Gaulle, 44120 Vertou, France
+StopArea:LCOG , 48-50 Rue Hervé le Guyader, 44240 La Chapelle-sur-Erdre, France
+StopArea:DOTT , 48 Rue du Général de Gaulle, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CVTI , 73 Boulevard de l'Égalité, 44100 Nantes, France
+StopArea:ESOR , 2-6 Rue du Champ Fleuri, 44840 Les Sorinières, France
+StopArea:PPLI , 43B Rue des Bignons, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:LLGR , 22 Avenue des Noieries, 44240 La Chapelle-sur-Erdre, France
+StopArea:BGNN , 22-32 Allée de la Bourgonnière, 44800 Saint-Herblain, France
+StopArea:LEVO , 8-10 Rue Jean Jouneau, 44400 Rezé, France
+StopArea:RSCO , 423 Rue des Landes de la Plée, 44115 Basse-Goulaine, France
+StopArea:LSAL , 64-66 Boulevard de la Libération, 44220 Couëron, France
+StopArea:BELM , 50-56 Boulevard des Belges, 44000 Nantes, France
+StopArea:PCNN , Rue du Pavillon, 44980 Sainte-Luce-sur-Loire, France
+StopArea:MNEF , 4 Rue du Moulin Neuf, 44300 Nantes, France
+StopArea:CONI , 4-6 Avenue Alexandre Goupil, 44700 Orvault, France
+StopArea:SJBO , 4 Rue des Frères Gohau, 44640 Saint-Jean-de-Boiseau, France
+StopArea:BDSP , 14 Boulevard des Sports, 44120 Vertou, France
+StopArea:JCOU , 105-107 Boulevard de la Fraternité, 44100 Nantes, France
+StopArea:LHOU , 128 Rue Maurice Jouaud, 44400 Rezé, France
+StopArea:JMNT , 53 Boulevard Jean Monnet, 44400 Rezé, France
+StopArea:CBAC , Le Paradis, 44220 Couëron, France
+StopArea:LMIC , 49-51 Rue Jean Jaurès, 44800 Saint-Herblain, France
+StopArea:LZCA , 8-10 Rue Claude Guillon Verne, 44100 Nantes, France
+StopArea:BDAN , 104-106 Boulevard des Anglais, 44100 Nantes, France
+StopArea:RVRE , Boulevard Martin Luther King, 44300 Nantes, France
+StopArea:MGCH , 11 Rue de la Fantaisie, 44300 Nantes, France
+StopArea:POYA , 120 Rue de la Robinière, 44400 Rezé, France
+StopArea:CSHB , 12 Rue du Docteur Boubée, 44800 Saint-Herblain, France
+StopArea:RNAN , 2 Rue de Saint-Servan, 44800 Saint-Herblain, France
+StopArea:DMAI , Voie de l'Hameçon, 44120 Vertou, France
+StopArea:GDPI , 35F Rue des Coucous, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:SALE , 270-272 Route de Vannes, 44700 Orvault, France
+StopArea:BIOT , Avenue Claude Antoine Peccot, 44700 Orvault, France
+StopArea:GALH , 2-46 D823, 44340 Bouguenais, France
+StopArea:BDNN , 100-102 Boulevard Saint-Aignan, 44100 Nantes, France
+StopArea:WDIS , 19-25 Rue des Gripots, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MTLI , 60 Avenue de la Martellière, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CHGN , Boulevard du Massacre, 44800 Saint-Herblain, France
+StopArea:LDAS , Avenue des Nouëlles, 44120 Vertou, France
+StopArea:MELI , 32 Rue Victor Fortun, 44400 Rezé, France
+StopArea:AGBE , 25 Route du Pâtis Viaud, 44120 Vertou, France
+StopArea:GIAR , 119-127 D58, 44620 La Montagne, France
+StopArea:SLGE , 21 Quai Ernest Renaud, 44100 Nantes, France
+StopArea:MPTA , Tournebride, 44830 Saint-Aignan-Grandlieu, France
+StopArea:CSCL , 72B Boulevard de la Solidarité, 44100 Nantes, France
+StopArea:CTEU , 1 Rue de la Chabossière, 44340 Bouguenais, France
+StopArea:LBTE , 24 Rue Chevreul, 44100 Nantes, France
+StopArea:FRGA , 2 Rue de la Frégate, 44980 Sainte-Luce-sur-Loire, France
+StopArea:DOLT , Rue Françoise Dolto, 44800 Saint-Herblain, France
+StopArea:PPSI , 47 Rue du Cellier, 44470 Mauves-sur-Loire, France
+StopArea:GARO , 10-12 D11, 44860 Saint-Aignan-Grandlieu, France
+StopArea:BSLO , 91-93 Rue de la Patouillerie, 44700 Orvault, France
+StopArea:GVSU , 147-149 Route de la Gare, 44120 Vertou, France
+StopArea:CLCC , Boulevard Professeur Jacques Monod, 44800 Saint-Herblain, France
+StopArea:RPBL , 1 Place de la République, 44200 Nantes, France
+StopArea:DROI , 246 Rue des Frères Fleury, 44470 Mauves-sur-Loire, France
+StopArea:BBEL , 50-56 Boulevard des Belges, 44000 Nantes, France
+StopArea:AUFR , 4 Rue de la Roche, 44400 Rezé, France
+StopArea:THAT , 64-66 D17, 44220 Couëron, France
+StopArea:AVEN , 229 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:JROS , 4 Rue Charles Richet, 44700 Orvault, France
+StopArea:GOBI , 104 Avenue Félix Vincent, 44700 Orvault, France
+StopArea:BDOU , Boulevard de Doulon, 44300 Nantes, France
+StopArea:LUNI , Quai Malakoff, 44000 Nantes, France
+StopArea:SMIC , 2-4 Rue de la Johardière, 44800 Saint-Herblain, France
+StopArea:CTLI , 29 Boulevard du Massacre, 44800 Saint-Herblain, France
+StopArea:GCOU , Route de l'Aérodrome, 44860 Saint-Aignan-Grandlieu, France
+StopArea:PTVI , 17-19 Route du Pâtis Viaud, 44120 Vertou, France
+StopArea:PRMI , 79-83 Rue du Général de Gaulle, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:VILE , 94 Rue du Douet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:RQIO , 13-14 Quai Marcel Boissard, 44400 Rezé, France
+StopArea:ABLA , 69 Boulevard Pierre de Coubertin, 44100 Nantes, France
+StopArea:PVTO , Rue de la Grand Maison, 44120 Vertou, France
+StopArea:FATA , 31 Rue de la Fantaisie, 44300 Nantes, France
+StopArea:LCSE , 161-165 Boulevard Robert Schuman, 44300 Nantes, France
+StopArea:POTT , 22-24 Rue Eugène Pottier, 44340 Bouguenais, France
+StopArea:RAZA , 2 Rue du Port Durand, 44300 Nantes, France
+StopArea:TCHE , 80 Rue de la Bougrière, 44980 Sainte-Luce-sur-Loire, France
+StopArea:MQLI , Esplanade de la Mocqueliere, 44800 Saint-Herblain, France
+StopArea:MROT , 17-19 Rue du Pellerin, 44640 Saint-Jean-de-Boiseau, France
+StopArea:JLIE , 129 Route de Clisson, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:LECH , 131 Boulevard Saint-Aignan, 44100 Nantes, France
+StopArea:HLAN , 4 Rue de la Maillardière, 44840 Les Sorinières, France
+StopArea:AIGU , 65 Rue de la Cadoire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:ICAM , 32-34 Avenue de Nantes, 44300 Carquefou, France
+StopArea:GLIE , 4-6 Avenue des Noieries, 44240 La Chapelle-sur-Erdre, France
+StopArea:LGRI , 18 Rue Jules Verne, 44980 Sainte-Luce-sur-Loire, France
+StopArea:LHPI , 2 Boulevard de l'Hôpitau, 44240 La Chapelle-sur-Erdre, France
+StopArea:PIRM , Pirmil, 44200 Nantes, France
+StopArea:GBLO , 83-85 Boulevard Auguste Peneau, 44300 Nantes, France
+StopArea:LCAR , Esplanade de Cardo, 44700 Orvault, France
+StopArea:TBAU , 63-65 Les Thébaudières, 44850 Le Cellier, France
+StopArea:PHVE , 4 Rue du Pré Hervé, 44300 Nantes, France
+StopArea:CHRE , 56 Rue Général Buat, 44000 Nantes, France
+StopArea:VCSO , 22 Boulevard Pasteur, 44100 Nantes, France
+StopArea:MDNE , Avenue des Villages, 44470 Carquefou, France
+StopArea:EPYY , 1 Boulevard de l'Épinay, 44470 Carquefou, France
+StopArea:FACU , 3 Boulevard Guy Mollet, 44300 Nantes, France
+StopArea:BCTT , 74 Rue Charles Rivière, 44400 Rezé, France
+StopArea:GSSU , 48 Quai Malakoff, 44000 Nantes, France
+StopArea:CLUE , 6 Rue du Clos des Vignes, 44120 Vertou, France
+StopArea:LYBO , Rue Jean Monnet, 44830 Bouaye, France
+StopArea:PBRE , 14-30 Rue de la Durantière, 44100 Nantes, France
+StopArea:LAUR , Rue Romain Rolland, 44100 Nantes, France
+StopArea:RSLI , 25-29 Rue de la Rousselière, 44120 Vertou, France
+StopArea:LNTT , 410 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:SAVA , 120 Rue du Général de Gaulle, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CDAN , 3 Rue Eugène Thomas, 44300 Nantes, France
+StopArea:JFRA , 130-132 Rue Jean Fraix, 44400 Rezé, France
+StopArea:OTAG , Cours des 50 Otages, 44000 Nantes, France
+StopArea:BLDR , 33 Rue du Champ de Tir, 44300 Nantes, France
+StopArea:CLZE , Boulevard Auguste Priou, 44120 Vertou, France
+StopArea:MLNE , 3 Rue Jean Monnet, 44800 Saint-Herblain, France
+StopArea:HPLA , Boulevard Professeur Jacques Monod, 44800 Saint-Herblain, France
+StopArea:FADI , 2-4 Boulevard Bâtonnier Cholet, 44100 Nantes, France
+StopArea:PGRI , 83 Rue Beau Soleil, 44340 Bouguenais, France
+StopArea:TPCH , 7 Avenue du Housseau, 44470 Carquefou, France
+StopArea:HREG , 3 Boulevard Georges Pompidou, 44200 Nantes, France
+StopArea:PLSS , 15-19 D965, 44880 Sautron, France
+StopArea:LYPE , 87 Avenue Claude Antoine Peccot, 44700 Orvault, France
+StopArea:CVBL , 58 Route de la Garenne, 44700 Orvault, France
+StopArea:BALI , 3-5 Rue Victor Fortun, 44400 Rezé, France
+StopArea:IUTH , 7 Avenue du Professeur Jean Rouxel, 44470 Carquefou, France
+StopArea:MDRE , 37-43 Route de la Garenne, 44700 Orvault, France
+StopArea:CRQU , 2518 Cours des 50 Otages, 44000 Nantes, France
+StopArea:SBAI , 22 Rue du Général de Gaulle, 44120 Vertou, France
+StopArea:GPOR , 8 Rue de la Baugerie, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CPER , 3-5 Rue Copernic, 44000 Nantes, France
+StopArea:ROCA , 1-3 Boulevard Guichet Serex, 44120 Vertou, France
+StopArea:OCEA , 31 Boulevard de l'Océan, 44220 Couëron, France
+StopArea:MCOU , Rue Joséphine Éven, 44220 Couëron, France
+StopArea:PNRZ , 56-58 Rue Aristide Briand, 44400 Rezé, France
+StopArea:AMER , 53 Boulevard Robert Schuman, 44300 Nantes, France
+StopArea:LTOU , 14-20 Route du Tour, 44830 Bouaye, France
+StopArea:PLBL , 499-505 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:PFNA , 89-95 Quai Emile Cormerais, 44800 Saint-Herblain, France
+StopArea:DLCR , 20 Rue Eugène Delacroix, 44100 Nantes, France
+StopArea:FDAY , 32 Avenue Marcelin Berthelot, 44800 Saint-Herblain, France
+StopArea:HRLL , 43 Rue Gutenberg, 44100 Nantes, France
+StopArea:HBDE , 16-20 D68, 44470 Thouaré-sur-Loire, France
+StopArea:LHER , Route du Loroux Bottereau, 44115 Basse-Goulaine, France
+StopArea:BUSS , Rue Louis Gaudin, 44980 Sainte-Luce-sur-Loire, France
+StopArea:RETA , 142-158 D137, 44400 Rezé, France
+StopArea:AECL , D85, 44340 Bouguenais, France
+StopArea:PRDI , 27 Rue de la Mulonnière, 44700 Orvault, France
+StopArea:VTNN , 12 Rue de la Maladrie, 44120 Vertou, France
+StopArea:RDMV , 64-66 Rue de Mauves, 44470 Thouaré-sur-Loire, France
+StopArea:ESCA , 23-27 Rue de la Croix Bine, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MGDR , 20-22 Rue Hervé le Guyader, 44240 La Chapelle-sur-Erdre, France
+StopArea:CGAU , 33 Rue de la Patouillerie, 44300 Nantes, France
+StopArea:LCTE , Route de Nantes, 44240 La Chapelle-sur-Erdre, France
+StopArea:BARR , 938 La Barre, 44470 Mauves-sur-Loire, France
+StopArea:BNAR , 6 Rue Bernard, 44400 Rezé, France
+StopArea:COQU , 14 Rue des Coquelicots, 44220 Couëron, France
+StopArea:JNLI , 1 Quai du Halleray, 44300 Nantes, France
+StopArea:PLPC , 5 Rue de Saint-Aignan, 44830 Bouaye, France
+StopArea:PTIS , 40-44 Boulevard Jules Verne, 44300 Nantes, France
+StopArea:NIAG , Avenue du Souchais, 44470 Carquefou, France
+StopArea:CPLI , 2 Rue Jean Jaurès, 44800 Saint-Herblain, France
+StopArea:CLSE , 155 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:GAIL , 25-27 Rue Robert Douineau, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:VIVI , 100 Route du Vignoble, 44120 Vertou, France
+StopArea:MRDI , 10 Rue Théodore Brosseaud, 44400 Rezé, France
+StopArea:MOTE , Motte-Rouge, 44000 Nantes, France
+StopArea:LBPI , D58, 44120 Vertou, France
+StopArea:DSAI , 95-97 Rue Général Buat, 44000 Nantes, France
+StopArea:JMLI , 52 Boulevard Jean Moulin, 44100 Nantes, France
+StopArea:MKSU , 1 Rue de la Corse, 44000 Nantes, France
+StopArea:LMRI , 25 Rue de Gigant, 44000 Nantes, France
+StopArea:GCEN , 6 Rue de la Bourgeonnière, 44300 Nantes, France
+StopArea:CSRI , 16 Boulevard Paul Henri Spaak, 44400 Rezé, France
+StopArea:QBNA , 25 Quai Henri Brunais, 44610 Indre, France
+StopArea:GSAN , 26B Boulevard Jean Monnet, 44400 Rezé, France
+StopArea:TTMO , 16 Rue Ordronneau, 44400 Rezé, France
+StopArea:BDEL , 74 Avenue de la Baraudière, 44800 Saint-Herblain, France
+StopArea:PRCE , 33 Rue des Dervallières, 44100 Nantes, France
+StopArea:CBGE , 13 Rue d'Anjou, 44120 Vertou, France
+StopArea:LNAI , 249 Boulevard du Massacre, 44800 Nantes, France
+StopArea:SJPO , 59 Allée de l'Embellie, 44300 Nantes, France
+StopArea:MSHE , 144 Rue du Docteur Boubée, 44800 Saint-Herblain, France
+StopArea:BLOR , 41-47 Rue de la Blordière, 44400 Rezé, France
+StopArea:COMM , 128 Cours Franklin Roosevelt, 44000 Nantes, France
+StopArea:BYGA , Allée Louis Armand, 44830 Bouaye, France
+StopArea:SZAI , 271 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:THEB , 23 Avenue des Thébaudières, 44800 Saint-Herblain, France
+StopArea:PHTR , 99 Route de Gachet Ferme de la Chantrerie, 44300 Nantes, France
+StopArea:BOVR , 45-47 Rue de la Commune de Paris DE1871, 44340 Bouguenais, France
+StopArea:BJOI , Beaujoire, 44300 Nantes, France
+StopArea:LMNE , Boulevard des Belges, 44300 Nantes, France
+StopArea:CNGO , 38 Avenue des Thébaudières, 44800 Saint-Herblain, France
+StopArea:PEON , 12 Rue Charles Perron, 44100 Nantes, France
+StopArea:TBLY , 3 Rue Éric Tabarly, 44400 Rezé, France
+StopArea:LONG , 65 Route de Vannes, 44100 Nantes, France
+StopArea:LFVR , 7 Rue de la Métallurgie, 44470 Carquefou, France
+StopArea:PMVE , Boulevard de Seattle, 44000 Nantes, France
+StopArea:ARAG , 9 Boulevard Ampère, 44470 Carquefou, France
+StopArea:PAGO , 29 Rue du Grignon, 44115 Basse-Goulaine, France
+StopArea:STBS , 58T Rue de la Croix Truin, 44640 Saint-Jean-de-Boiseau, France
+StopArea:HMVE , 100 Boulevard de l'Europe, 44120 Vertou, France
+StopArea:CRCE , 1-3 Rue du Marché Commun, 44300 Nantes, France
+StopArea:CBEA , 6 Rue Charles de Gaulle, 44470 Carquefou, France
+StopArea:CANC , 2 Boulevard Paul Langevin, 44100 Nantes, France
+StopArea:FOTA , 70 Rue de la Fontaine, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:GRAM , 18 Rue Auguste Saupin, 44120 Vertou, France
+StopArea:JCDM , 38 Route des Mares, 44830 Bouaye, France
+StopArea:PB1B , D723, 44340 Bouguenais, France
+StopArea:PERR , 3 Rue Jules Grandjouan, 44300 Nantes, France
+StopArea:SLVI , 6 Rue de Nantes, 44710 Saint-Léger-les-Vignes, France
+StopArea:PLAC , 19 Avenue de la Martellière, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CNAV , Chantiers Navals, 44100 Nantes, France
+StopArea:VIAR , Viarme-Talensac, 44000 Nantes, France
+StopArea:CLMO , 153 Route de Bouguenais, 44620 La Montagne, France
+StopArea:JMAC , 45-51 Boulevard de la Liberté, 44100 Nantes, France
+StopArea:AIBU , 116-118 Rue de l'Aviation, 44340 Bouguenais, France
+StopArea:MHDI , 99 Rue Victor Hugo, 44400 Rezé, France
+StopArea:LFLE , 7-15 Rue Marie Curie, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:FGRI , Les Frettières, 44830 Bouaye, France
+StopArea:MRAI , Rue de la Grand Maison, 44120 Vertou, France
+StopArea:RPAR , 4 Boulevard des Belges, 44000 Nantes, France
+StopArea:SLDA , 53-57 Boulevard de la Fraternité, 44100 Nantes, France
+StopArea:PTGO , 36-38 Rue du Poitou, 44115 Basse-Goulaine, France
+StopArea:LGAR , 111 Rue de la Garde, 44300 Nantes, France
+StopArea:GAUT , 63 Rue des Pontreaux, 44340 Bouguenais, France
+StopArea:TEIF , 20 Rue du Clos Grille, 44640 Le Pellerin, France
+StopArea:LADO , 2-10 D37, 44470 Carquefou, France
+StopArea:MSOR , 6 Rue Georges Clemenceau, 44840 Les Sorinières, France
+StopArea:CP4L , 32-34 Rue de la Chauvinière, 44800 Saint-Herblain, France
+StopArea:VISO , 42-44 Rue du Perray, 44300 Nantes, France
+StopArea:MARR , 198 Rue de la Mainguais, 44300 Nantes, France
+StopArea:LHAC , 71 Rue du Tertre, 44470 Carquefou, France
+StopArea:RNIE , 5B Route de la Rinière, 44860 Saint-Aignan-Grandlieu, France
+StopArea:PDRE , 2B Rue du Marais, 44220 Couëron, France
+StopArea:BNTA , 46-52 Route du Mortier Vannerie, 44120 Vertou, France
+StopArea:TAID , 92 Boulevard de Doulon, 44300 Nantes, France
+StopArea:JOTE , 29-33 Route des Sablons, 44830 Bouaye, France
+StopArea:RIND , Rue d'Indre, 44800 Saint-Herblain, France
+StopArea:BRNI , 118 Rond-point de la Baronniere, 44700 Orvault, France
+StopArea:DIAN , 49-51 Rue Hector Berlioz, 44300 Nantes, France
+StopArea:CRME , 53-57 Avenue de la Branchoire, 44800 Saint-Herblain, France
+StopArea:GNRA , Boulevard Emile Gabory, 44200 Nantes, France
+StopArea:PTUR , 6 Rue de la Rivière, 44240 La Chapelle-sur-Erdre, France
+StopArea:LBER , 16 Rue Antoine de Saint-Exupéry, 44860 Saint-Aignan-Grandlieu, France
+StopArea:DBSS , 41 Rue du Marais, 44220 Couëron, France
+StopArea:MADO , 3 Route de Portillon, 44120 Vertou, France
+StopArea:GSNO , 24 Boulevard Stalingrad, 44000 Nantes, France
+StopArea:STPI , 1 Rue Général Leclerc de Hauteclocque, 44000 Nantes, France
+StopArea:PRHE , 207 Rue de la Loire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:CJOS , 467 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:CDCO , 11 Avenue Carnot, 44000 Nantes, France
+StopArea:NBLA , 3 Rue de Pologne, 44300 Nantes, France
+StopArea:BAGA , 155 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:MPER , 57 Rue du Stade, 44220 Couëron, France
+StopArea:PUCH , 1 Rue Vincent Auriol, 44800 Saint-Herblain, France
+StopArea:BLNO , D751A, 44830 Bouaye, France
+StopArea:MNSS , 19 Rue du Douet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MTEI , 15-16 Allée Baco, 44000 Nantes, France
+StopArea:RPSI , 5 Route de Vertou, 44200 Nantes, France
+StopArea:COUD , 30-38 Rue du Coudray, 44000 Nantes, France
+StopArea:PRGE , 320 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:BGOG , 65 Avenue de la Ferrière, 44700 Orvault, France
+StopArea:MITR , 123 Boulevard de Doulon, 44000 Nantes, France
+StopArea:GCAR , 112 Boulevard du Massacre, 44800 Saint-Herblain, France
+StopArea:HCOU , 3 Rue des Meuniers, 44220 Couëron, France
+StopArea:QTNE , Rue de la Quintaine, 44115 Basse-Goulaine, France
+StopArea:BYCE , 20-22 Rue de Nantes, 44830 Bouaye, France
+StopArea:LCBU , 2 Rue Jean Louis, 44400 Rezé, France
+StopArea:CHSS , 45 Rue de la Rousselière, 44120 Vertou, France
+StopArea:GAGN , 42 Boulevard Auguste Peneau, 44300 Nantes, France
+StopArea:VGAC , Vincent Gâche, 44200 Nantes, France
+StopArea:ARBO , 4B Avenue de la Praudière, 44700 Orvault, France
+StopArea:AEPO , 1 Rue Charles Lindbergh, 44340 Bouguenais, France
+StopArea:JALI , 51 Boulevard Mendès France, 44700 Orvault, France
+StopArea:CLRO , 1 Rue du Prieuré, 44640 Le Pellerin, France
+StopArea:CSTE , 2 Rue de la Mitrie, 44000 Nantes, France
+StopArea:SVNN , 8 Les Savonnières, 44610 Indre, France
+StopArea:BGRI , 60-62 Route de Thouaré, 44980 Sainte-Luce-sur-Loire, France
+StopArea:RMAU , 7-9 Rue Philippe Lebon, 44100 Saint-Herblain, France
+StopArea:GGNO , 31 D119, 44115 Basse-Goulaine, France
+StopArea:BNNO , 2 Boulevard Winston Churchill, 44100 Nantes, France
+StopArea:ALNE , 30 Chemin de la Chapelle des Anges, 44700 Orvault, France
+StopArea:BSSL , 112-124 Rue de la Bougrière, 44980 Sainte-Luce-sur-Loire, France
+StopArea:PCDI , Avenue des Villages, 44470 Carquefou, France
+StopArea:LPBA , D80, 44640 Le Pellerin, France
+StopArea:RCER , 38 Rue du Rocher, 44800 Saint-Herblain, France
+StopArea:BLCH , 42 Boulevard François Blancho, 44220 Couëron, France
+StopArea:MLON , Boulevard du Gesvres, 44240 La Chapelle-sur-Erdre, France
+StopArea:PVLO , D751A, 44830 Bouaye, France
+StopArea:BNVI , 11 Rue du Château de l'Eraudière, 44300 Nantes, France
+StopArea:RDGO , 2 Rue Robert Douineau, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:PAJO , 17 Rue Henri Mainguet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:BAIE , Périphérique, 44240 La Chapelle-sur-Erdre, France
+StopArea:SOWE , 28 Rue Bobby Sands, 44800 Saint-Herblain, France
+StopArea:DOME , 19-25 Boulevard Albert Thomas, 44000 Nantes, France
+StopArea:BGLA , 26-28 Rue de Vendée, 44115 Basse-Goulaine, France
+StopArea:GBTA , 15 Rue de la Grande Bretagne, 44470 Carquefou, France
+StopArea:MALL , 83 D42, 44700 Orvault, France
+StopArea:LITT , 3 Avenue du Parc de Procé, 44100 Nantes, France
+StopArea:CAST , 5-7 Rue de la Grande Bretagne, 44300 Nantes, France
+StopArea:TENA , Tertre, 44800 Saint-Herblain, France
+StopArea:CSIB , 120-122 Rue du Docteur Boubée, 44800 Saint-Herblain, France
+StopArea:PCRE , 164-168 Boulevard des Anglais, 44100 Nantes, France
+StopArea:COBI , 2 Rue des Cévennes, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:LMTA , 184 Route de Bouguenais, 44620 La Montagne, France
+StopArea:FALI , 2-6 Boulevard Clovis Constant, 44000 Nantes, France
+StopArea:GRET , Boulevard de l'Estuaire, 44200 Nantes, France
+StopArea:VSCO , 19 Rue Vincent Scotto, 44300 Nantes, France
+StopArea:MGUA , Avenue des Villages, 44470 Carquefou, France
+StopArea:LDRE , 59 Rue du Landreau, 44300 Nantes, France
+StopArea:FDDR , 5 Chemin de la Censive du Tertre, 44300 Nantes, France
+StopArea:PDUC , 76 Boulevard de la Prairie au Duc, 44200 Nantes, France
+StopArea:PSCE , Plaisance, 44700 Saint-Herblain, France
+StopArea:SRNI , 1 Rue de Villandry, 44840 Les Sorinières, France
+StopArea:PACQ , 5 Avenue des Villages, 44470 Carquefou, France
+StopArea:MNFA , Manufacture, 44000 Nantes, France
+StopArea:RVER , 103-105 Rue des Bourdonnières, 44200 Nantes, France
+StopArea:VDCE , 22-24 Rue de Bretagne, 44880 Sautron, France
+StopArea:CPGN , 41 Rue de Goulaine, 44115 Basse-Goulaine, France
+StopArea:PDJO , 113 Avenue du Bout des Landes, 44300 Nantes, France
+StopArea:GRPO , 9 Rue Pierre Mendès France Centre commercial Auchan Saint Sebastien, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:NETR , Neustrie, 44340 Bouguenais, France
+StopArea:MAGA , 9 Rue des Saulzais, 44470 Mauves-sur-Loire, France
+StopArea:VEXP , 4 Rue de Saint-Servan, 44800 Saint-Herblain, France
+StopArea:EDRE , Boulevard des Européens, 44470 Carquefou, France
+StopArea:PONT , 630 Rue de la Droitière, 44470 Mauves-sur-Loire, France
+StopArea:BHAR , 38 Boulevard Maréchal Juin, 44100 Nantes, France
+StopArea:FRKL , 2B Rue Benjamin Franklin, 44800 Saint-Herblain, France
+StopArea:GSIN , 36 Rue du Clos des Vignes, 44120 Vertou, France
+StopArea:ODNE , 6 Rue Ordronneau, 44400 Rezé, France
+StopArea:BRUN , 127 Rue Paul Bellamy, 44000 Nantes, France
+StopArea:HBLI , Hôpital Bellier, 44000 Nantes, France
+StopArea:CHPO , 58 Rue du Clos des Vignes, 44120 Vertou, France
+StopArea:SMHI , Saint-Mihiel, 44000 Nantes, France
+StopArea:LPME , 27 Rue de la Plume, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MDAR , 19 Rue de Saint-Servan, 44800 Saint-Herblain, France
+StopArea:BOSI , 23-25 Rue des Renards, 44300 Nantes, France
+StopArea:WATT , Wattignies, 44200 Nantes, France
+StopArea:LBAU , 114-118 Rue de Bretagne, 44880 Sautron, France
+StopArea:CTBO , 81-83 Rue des Coteaux, 44340 Bouguenais, France
+StopArea:OLVE , 86 Route de Vertou, 44200 Nantes, France
+StopArea:COPI , 38 Rue du Marais, 44220 Couëron, France
+StopArea:IDFR , 30 Rue de l'Île de France, 44120 Vertou, France
+StopArea:BCHE , 259-261 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:CELL , 42 Rue de Bel air, 44850 Le Cellier, France
+StopArea:RBHI , 4 Boulevard de Launay, 44100 Nantes, France
+StopArea:TLSA , 15-17 Rue Paul Bellamy, 44000 Nantes, France
+StopArea:BLVU , Mendès-France Bellevue, 44800 Saint-Herblain, France
+StopArea:GGUI , Boulevard Paul Henri Spaak, 44400 Rezé, France
+StopArea:BRDI , 23-37 D58, 44620 La Montagne, France
+StopArea:JPER , 17 Rue du Château de Rezé, 44400 Rezé, France
+StopArea:MREZ , 1-3 Place Saint-Pierre, 44400 Rezé, France
+StopArea:PTCH , 3 Route de Nantes, 44700 Orvault, France
+StopArea:RSRA , 344 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:FTAB , 56 Rue Jean Jaurès, 44400 Rezé, France
+StopArea:VRIE , 2 Rue des Pas Perdus, 44240 La Chapelle-sur-Erdre, France
+StopArea:JVNA , 135-145 Rue Jules Grandjouan, 44300 Nantes, France
+StopArea:PIAO , Rue Ginsheim Gustavsburg, 44340 Bouguenais, France
+StopArea:PTQQ , 27 Rue de la Grange au Loup, 44300 Nantes, France
+StopArea:CADO , 2 Rue de la Cadoire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:CRVA , 6-7 Avenue Robert Chasteland, 44700 Orvault, France
+StopArea:MQDI , 31 Rue du Marquis de Dion, 44470 Carquefou, France
+StopArea:PSUD , Rue du Pacifique, 44115 Basse-Goulaine, France
+StopArea:CUIE , 35 Rue de la Minoterie, 44710 Saint-Léger-les-Vignes, France
+StopArea:LSYY , 38B Rue Félix Faure, 44000 Nantes, France
+StopArea:DALB , 33-35 Boulevard Ernest Dalby, 44000 Nantes, France
+StopArea:LPEL , 11 Rue du Port Chasse, 44640 Le Pellerin, France
+StopArea:CQLU , 4-6 Rue du Domaine, 44120 Vertou, France
+StopArea:LMBR , 55 Rue du Château d'Eau, 44400 Rezé, France
+StopArea:CHAB , 45 Boulevard de la Libération, 44220 Couëron, France
+StopArea:ALDE , 2 Rue Eugène Pottier, 44340 Bouguenais, France
+StopArea:SCLE , 27-39 Rue Maréchal Joffre, 44000 Nantes, France
+StopArea:GURO , 21-23 Boulevard Victor Hugo, 44200 Nantes, France
+StopArea:MLHE , 1-3 Rue Suzanne Lenglen, 44800 Saint-Herblain, France
+StopArea:RABI , 8 Rue Léon Gaumont, 44700 Orvault, France
+StopArea:NLBR , 46-48 Boulevard des Poilus, 44300 Nantes, France
+StopArea:SINI , 112-114 Rue du Stade, 44220 Couëron, France
+StopArea:CQGU , 6 Rue du Chat qui Guette, 44640 Saint-Jean-de-Boiseau, France
+StopArea:SSTA , 21-23 Rue Paul Bellamy, 44000 Nantes, France
+StopArea:BRIN , 1 Rue des Cèdres, 44830 Brains, France
+StopArea:TDGA , Avenue André Malraux, 44700 Orvault, France
+StopArea:MBOU , 2 Rue de la Commune de Paris DE1871, 44340 Bouguenais, France
+StopArea:BOFA , Bouffay, 44000 Nantes, France
+StopArea:GTLA , 11 Rue Saint-Joseph, 44700 Orvault, France
+StopArea:BZAR , 67 Rue de la Gare, 44800 Saint-Herblain, France
+StopArea:HERM , Avenue de la Poésie, 44800 Saint-Herblain, France
+StopArea:BDRI , 6-12 Rue des Bourderies, 44100 Nantes, France
+StopArea:ERDI , 155 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:TZEL , 2 Allée des Touzelles, 44115 Basse-Goulaine, France
+StopArea:TERR , 14 Rue du Ranzay, 44300 Nantes, France
+StopArea:DLME , 10 Boulevard Gabriel Guist'Hau, 44000 Nantes, France
+StopArea:CIFA , 1 Rue de la Fonderie, 44470 Carquefou, France
+StopArea:BLSL , 21B Promenade de Bellevue, 44980 Sainte-Luce-sur-Loire, France
+StopArea:BGVI , 1 Boulevard de Cardiff, 44100 Nantes, France
+StopArea:MIND , 9 Rue de la Gare, 44610 Indre, France
+StopArea:RCAS , René Cassin, 44300 Nantes, France
+StopArea:OQNE , 7 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:XREZ , 4-6 Rue de la Chesnaie, 44400 Rezé, France
+StopArea:VARI , 1 Place Vincent Auriol, 44100 Nantes, France
+StopArea:KERE , 167-171 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:MCAS , 51-53 Route de Thouaré, 44980 Sainte-Luce-sur-Loire, France
+StopArea:PCHA , 8B Rue de la Libération, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:MONE , 17 Rue du Bel air, 44470 Carquefou, France
+StopArea:LJOS , 15 Boulevard Gabriel Lauriol, 44300 Nantes, France
+StopArea:SERC , 5 Rue du Bel air, 44470 Carquefou, France
+StopArea:CSER , 10-14 Place de l'Église, 44240 La Chapelle-sur-Erdre, France
+StopArea:CZIN , 23 Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:MGNO , 76 Rue de la Loire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:LFOR , La Heurte aux Lièvres, 44830 Bouaye, France
+StopArea:CLNA , 268 Boulevard du Massacre, 44800 Saint-Herblain, France
+StopArea:MDSI , 40-42 Boulevard Gabriel Guist'Hau, 44000 Nantes, France
+StopArea:MAUC , 13 Rue du Cellier, 44470 Mauves-sur-Loire, France
+StopArea:ECTE , 33-35 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:JAPY , 12-14 Boulevard de la Beaujoire, 44300 Nantes, France
+StopArea:NRDA , Neruda, 44800 Saint-Herblain, France
+StopArea:CSMP , 30-32 Boulevard Lelasseur, 44000 Nantes, France
+StopArea:CBIN , 104 Rue Ernest Sauvestre, 44400 Rezé, France
+StopArea:JVAL , Rue de la Flûte Enchantée, 44340 Bouguenais, France
+StopArea:PCVO , Route de Saint-Joseph, 44300 Nantes, France
+StopArea:MMNA , 6 Rue Guillaume Grootaers, 44300 Nantes, France
+StopArea:PDCE , 21-23 Route de Rennes, 44300 Orvault, France
+StopArea:GESV , 86 Boulevard de l'Hôpitau, 44240 La Chapelle-sur-Erdre, France
+StopArea:LRNE , 13 Rue de la 5E République, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:PRFO , 31 Rue des Plantes, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:NILL , 26 Avenue des Thébaudières, 44800 Saint-Herblain, France
+StopArea:RNLT , 4 Rue de la Métallurgie, 44470 Carquefou, France
+StopArea:MGIN , 25 Boulevard des Martyrs Nantais de la Résistance, 44200 Nantes, France
+StopArea:LNOU , 16-24 Route de la Noue, 44860 Saint-Aignan-Grandlieu, France
+StopArea:XJAN , Rue Pablo Neruda, 44340 Bouguenais, France
+StopArea:RVAN , 2 Boulevard des Anglais, 44100 Nantes, France
+StopArea:CHNI , 23 Route de la Garenne, 44700 Orvault, France
+StopArea:FRET , 213-217 Boulevard Robert Schuman, 44300 Nantes, France
+StopArea:DRAD , Avenue des Villages, 44470 Carquefou, France
+StopArea:CDMA , 3 Avenue du Champ de Manœuvre, 44470 Carquefou, France
+StopArea:VAIL , 1 Rue Jean Jaurès, 44610 Indre, France
+StopArea:SORI , 20 Rue de l'Abbé Grégoire, 44400 Rezé, France
+StopArea:BNLU , 12 Rue du Marché Commun, 44300 Nantes, France
+StopArea:GRTE , 15-17 Rue de la Garotterie, 44800 Saint-Herblain, France
+StopArea:PROU , 25 Avenue de la Libération, 44400 Rezé, France
+StopArea:HALU , 3-4 Rue de la Petite Baratte, 44300 Nantes, France
+StopArea:COTA , Rue de l'Aven, 44240 La Chapelle-sur-Erdre, France
+StopArea:CCLA , 2 Rue de la Guilloterie, 44400 Rezé, France
+StopArea:GDCH , 2 Boulevard Maréchal Juin, 44100 Nantes, France
+StopArea:BDIN , 5-7 Rue du Rocher, 44800 Saint-Herblain, France
+StopArea:PPOU , 66-72 D37, 44470 Thouaré-sur-Loire, France
+StopArea:PREU , 23 Rue Jean Jaurès, 44800 Saint-Herblain, France
+StopArea:BEOC , 78 Boulevard Bâtonnier Cholet, 44100 Nantes, France
+StopArea:FFAU , Félix Faure, 44000 Nantes, France
+StopArea:HMLL , 25 Rue de la Californie, 44400 Rezé, France
+StopArea:BIGN , 65 Rue des Bignons, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:GOLF , 60 Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:VORR , 38 Rue de la Patouillerie, 44300 Nantes, France
+StopArea:CVNI , 22 Boulevard de la Chauvinière, 44300 Nantes, France
+StopArea:CGLA , 45-47 Rue Maurice Lagathu, 44400 Rezé, France
+StopArea:CMCI , 41-47 D68, 44470 Thouaré-sur-Loire, France
+StopArea:CLET , 94-134 Route de Paris, 44300 Nantes, France
+StopArea:BSNI , 38-40 Rue de Carquefou, 44470 Thouaré-sur-Loire, France
+StopArea:SGRA , 68 Rue de la Bastille, 44000 Nantes, France
+StopArea:DAVU , 3 Rue de la Métallurgie, 44470 Carquefou, France
+StopArea:DCFF , Du Chaffault, 44100 Nantes, France
+StopArea:ARGO , 1 Avenue des Argonautes, 44470 Carquefou, France
+StopArea:SILL , 21 Avenue de l'Angevinière, 44800 Saint-Herblain, France
+StopArea:EPIN , 2 Route de la Noue, 44860 Saint-Aignan-Grandlieu, France
+StopArea:PBLE , 7 Rue du Pâtis Brûle, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:SPRU , 60 Avenue du Parnasse, 44800 Saint-Herblain, France
+StopArea:TBCH , 35 Rue Gambetta, 44000 Nantes, France
+StopArea:FMIT , François Mitterrand, 44800 Saint-Herblain, France
+StopArea:CREZ , Château de Rezé-Place François Mitterrand, 44400 Rezé, France
+StopArea:VDUR , 42-44 Rue Denis Rivière, 44610 Indre, France
+StopArea:PPDO , 14 Boulevard Georges Pompidou, 44200 Nantes, France
+StopArea:LGOF , 171 Rue Paul Bellamy, 44000 Nantes, France
+StopArea:VEAG , 15 Rue Véga, 44470 Carquefou, France
+StopArea:MDLA , 2 Rue de Beau Soleil, 44980 Sainte-Luce-sur-Loire, France
+StopArea:BNET , 42 Rue du Bignonnet, 44120 Vertou, France
+StopArea:BRAG , D42, 44700 Orvault, France
+StopArea:INLA , 1 Rue Aronnax, 44800 Saint-Herblain, France
+StopArea:FRON , 114 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:POIT , Rue du Poitou, 44000 Nantes, France
+StopArea:FRII , 27 Rue du Stade, 44220 Couëron, France
+StopArea:MOZI , 1 Rue Pierre Étienne Flandin, 44200 Nantes, France
+StopArea:FTDO , 65-67 Boulevard Gabriel Lauriol, 44300 Nantes, France
+StopArea:PISE , Pin Sec, 44300 Nantes, France
+StopArea:BIAN , 10-12 Rue Jules Verne, 44470 Carquefou, France
+StopArea:PLOR , 25-27 Rue du Plessis, 44240 La Chapelle-sur-Erdre, France
+StopArea:BBON , Boulevard des Européens, 44300 Nantes, France
+StopArea:CBNA , 2 Rue François Joseph Talma, 44000 Nantes, France
+StopArea:EPEL , 25-27 D80, 44640 Le Pellerin, France
+StopArea:MGLI , 15 Rue des Magnoliers, 44800 Saint-Herblain, France
+StopArea:PPFA , Boulevard des Tribunes, 44300 Nantes, France
+StopArea:MSLL , 40-42 Rue de la Marseillaise, 44100 Nantes, France
+StopArea:VEPR , 344-346 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:SSEB , 5 Rue du Général de Gaulle, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:ORVA , Chemin de la Croix Durand, 44700 Orvault, France
+StopArea:DEMO , 77 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:FAUV , Avenue du Housseau, 44470 Carquefou, France
+StopArea:OLYM , 15 Avenue des Perrières, 44240 La Chapelle-sur-Erdre, France
+StopArea:MTIE , 44-50 Rue Maurice Daniel, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:SOEC , Avenue du Souchais, 44470 Carquefou, France
+StopArea:BRET , 77 Boulevard de l'Europe, 44120 Vertou, France
+StopArea:TRIA , 82-86 Rue de Mauves, 44470 Thouaré-sur-Loire, France
+StopArea:LCLE , 83 Route de la Chapelle-sur-Erdre, 44300 Nantes, France
+StopArea:RROL , 36 Rue Romain Rolland, 44100 Nantes, France
+StopArea:DCAN , Duchesse Anne - Château des Ducs de Bretagne, 44000 Nantes, France
+StopArea:AGVI , 1 Avenue de l'Angevinière, 44800 Saint-Herblain, France
+StopArea:PMAR , 18 Avenue de la Bugallière, 44700 Orvault, France
+StopArea:CHBE , 90 Boulevard des Poilus, 44300 Nantes, France
+StopArea:MDPO , 541 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:CERO , Boulevard François Blancho, 44220 Couëron, France
+StopArea:STHR , 1-19 Route de Vannes, 44300 Nantes, France
+StopArea:COAY , Avenue du Docteur Alfred Corlay, 44800 Saint-Herblain, France
+StopArea:LYRI , D965, 44800 Saint-Herblain, France
+StopArea:CMUS , 30 Avenue Camus, 44000 Nantes, France
+StopArea:BEIL , 67 Avenue de la Paquelais, 44700 Orvault, France
+StopArea:RDFY , 26 Boulevard Jean Ingres, 44100 Nantes, France
+StopArea:CARQ , 108-112 Rue François René de Châteaubriand, 44470 Carquefou, France
+StopArea:SFRA , Boulevard de Seattle, 44000 Nantes, France
+StopArea:GRMA , 44 Rue Julian Grimau, 44800 Saint-Herblain, France
+StopArea:PCSI , 7 Boulevard Albert Einstein, 44300 Nantes, France
+StopArea:ACHA , 27 Route de la Chapelle-sur-Erdre, 44300 Nantes, France
+StopArea:SEVR , 144-148 Route de Vertou, 44200 Nantes, France
+StopArea:CAUX , 51-67 Route de Bouguenais, 44620 La Montagne, France
+StopArea:PBYE , Rue Jacques Duclos, 44300 Nantes, France
+StopArea:PETR , 99 Rue de la Garde, 44300 Nantes, France
+StopArea:TADI , 2 Avenue des Tulipes, 44220 Couëron, France
+StopArea:LSOU , 35 Rue du Plessis, 44240 La Chapelle-sur-Erdre, France
+StopArea:LIBE , 23 Allée du Château d'aux, 44620 La Montagne, France
+StopArea:GLOU , 32 Route de Carquefou, 44300 Nantes, France
+StopArea:MBSE , 1 Boulevard de l'Épinay, 44470 Carquefou, France
+StopArea:EDNA , 8 Rue de Gigant, 44000 Nantes, France
+StopArea:MPMN , 11-13 Avenue de Nantes, 44470 Carquefou, France
+StopArea:LSLL , 457 Rue des Salles de l'Eraudière, 44300 Nantes, France
+StopArea:DPTE , 153 Rue des Déportés, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:CTIE , 3 Rue Jules Ferry, 44340 Bouguenais, France
+StopArea:RIVI , 157 Rue du Grignon, 44115 Basse-Goulaine, France
+StopArea:MLLI , 9-11 Boulevard Saint-Aignan, 44100 Nantes, France
+StopArea:ADEL , Aimé Delrue, 44000 Nantes, France
+StopArea:MOIN , 32-34 Rue Henri Gautier, 44220 Couëron, France
+StopArea:PCAC , 52 Boulevard Pierre de Coubertin, 44100 Nantes, France
+StopArea:RSNB , 5 Rue Julius et Ethel Rosenberg, 44800 Saint-Herblain, France
+StopArea:LCHA , 16-18 Rue Charles Rivière, 44400 Rezé, France
+StopArea:KOEN , Rue de la Janvraie, 44100 Nantes, France
+StopArea:RLEA , 232 Rue des Landes de la Plée, 44115 Basse-Goulaine, France
+StopArea:BIND , 24 Quai Victor Boquien, 44610 Indre, France
+StopArea:PMEU , 49-51 Rue du Port aux Meules, 44120 Vertou, France
+StopArea:HILE , 3 Rue de l'Île Macé, 44400 Rezé, France
+StopArea:XSYY , 336 Boulevard Professeur Jacques Monod, 44800 Saint-Herblain, France
+StopArea:SVDI , 73 Boulevard François Mitterrand, 44800 Saint-Herblain, France
+StopArea:BPTY , 24 Boulevard des Anglais, 44000 Nantes, France
+StopArea:AFRA , 6 Boulevard Luc Olivier Merson, 44000 Nantes, France
+StopArea:PEDR , 29-31 Rue des Perdriaux, 44120 Vertou, France
+StopArea:MDEL , 6-10 Boulevard François Blancho, 44200 Nantes, France
+StopArea:LRCH , 12 Boulevard de Sarrebruck, 44000 Nantes, France
+StopArea:AMIT , 19 Rue des Fleurs, 44220 Couëron, France
+StopArea:BOTI , 4 Rue de la Boutière, 44120 Vertou, France
+StopArea:FRNE , 39 Rue Louis Gaudin, 44980 Sainte-Luce-sur-Loire, France
+StopArea:TRQU , 34 Route des Terres Quartières, 44830 Bouaye, France
+StopArea:LALL , 26 Rue Desaix, 44000 Nantes, France
+StopArea:CABR , 85-87 Boulevard de la Liberté, 44100 Nantes, France
+StopArea:LFAU , 24 Rue de la Maillardière, 44840 Les Sorinières, France
+StopArea:RVDI , 12 Rue de la Johardière, 44800 Saint-Herblain, France
+StopArea:JUIV , 9 Boulevard Charles de Gaulle, 44800 Saint-Herblain, France
+StopArea:APRE , 1 Avenue Ambroise Paré, 44800 Saint-Herblain, France
+StopArea:GEVR , Boulevard du Gesvres, 44240 La Chapelle-sur-Erdre, France
+StopArea:MICH , 1-3 Rue de la Lombarderie, 44300 Nantes, France
+StopArea:MRTE , 110 Rue de la Blordière, 44400 Rezé, France
+StopArea:SATR , Rue de Bretagne, 44880 Sautron, France
+StopArea:PNTI , 72 Rue du Perray, 44300 Nantes, France
+StopArea:BGSH , 171 Boulevard Marcel Paul, 44800 Saint-Herblain, France
+StopArea:JAME , Jamet, 44100 Nantes, France
+StopArea:HAUB , Boulevard de Berlin, 44000 Nantes, France
+StopArea:TRCA , 1-3 Rue de la Garde, 44300 Nantes, France
+StopArea:COST , 216 Route de Sainte-Luce, 44300 Nantes, France
+StopArea:SNIC , 5 Place du Bon Pasteur, 44000 Nantes, France
+StopArea:CURI , 2179 Rue Marie Curie Centre commercial Auchan Saint Sebastien, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:BSEJ , 6 Rue Guillaume Grootaers, 44300 Nantes, France
+StopArea:OBLA , 91 Rue du Moulin à l'Huile, 44400 Rezé, France
+StopArea:FRAC , Frachon, 44800 Saint-Herblain, France
+StopArea:BRCH , 15 Rue des Sirènes, 44470 Carquefou, France
+StopArea:MIAI , 134 Route de Thouaré, 44980 Sainte-Luce-sur-Loire, France
+StopArea:BVER , 83 Avenue des Thébaudières, 44800 Saint-Herblain, France
+StopArea:PCZI , Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:MORH , 95 Boulevard Gabriel Lauriol, 44300 Nantes, France
+StopArea:LILA , 4-6 Route de Pont Saint-Martin, 44120 Vertou, France
+StopArea:BODO , 49 Rue des Bourdonnières, 44200 Nantes, France
+StopArea:MACH , 43 Boulevard Benoni Goullin, 44200 Nantes, France
+StopArea:FOCH , 1 Rue de l'Évêché, 44000 Nantes, France
+StopArea:GATI , 45 Rue Henri Radigois, 44800 Saint-Herblain, France
+StopArea:PIBL , 18 Rue de la Pierre Blanche, 44340 Bouguenais, France
+StopArea:HFNA , 43 Rue de la Haute Forêt, 44300 Nantes, France
+StopArea:SAOR , 15 Route de la Barre, 44470 Thouaré-sur-Loire, France
+StopArea:RNRE , 15 Avenue du Professeur Jean Rouxel, 44470 Carquefou, France
+StopArea:VDLO , 10 Place du Vieux Doulon, 44300 Nantes, France
+StopArea:PTPS , 304-316 D149, 44230 Vertou, France
+StopArea:BTIE , 73 Rue de la Bottière, 44300 Nantes, France
+StopArea:LIPP , 32 Rue de la Bottière, 44300 Nantes, France
+StopArea:PJOU , 29-41 D68, 44470 Thouaré-sur-Loire, France
+StopArea:ECBU , 3 Rue de la Plume, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:HFLE , 132-134 Avenue Félix Vincent, 44700 Orvault, France
+StopArea:ATAR , 6 Rue Véga, 44470 Carquefou, France
+StopArea:LOIR , 13 Rue de la Loire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:CSAY , 68 Rue de la Loire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:JFER , Rue Louis Gaudin, 44980 Sainte-Luce-sur-Loire, France
+StopArea:GLDE , 86 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:LHLE , 47 Rue du Belem, 44470 Thouaré-sur-Loire, France
+StopArea:CTOR , Boulevard Emile Gabory, 44200 Nantes, France
+StopArea:DMUR , Rue Jules Dumont d'Urville, 44800 Saint-Herblain, France
+StopArea:MBLA , 96 Rue Maurice Jouaud, 44400 Rezé, France
+StopArea:BAST , Rue Christophe Colomb, 44340 Bouguenais, France
+StopArea:JBNA , 56 Avenue de la Baraudière, 44800 Saint-Herblain, France
+StopArea:NOSH , 56 Avenue des Naudières, 44800 Saint-Herblain, France
+StopArea:CNTR , 44 Rue de la Pierre Blanche, 44340 Bouguenais, France
+StopArea:VEGE , 56-58 Rue Jules Verne, 44470 Carquefou, France
+StopArea:CMLL , 88 Avenue Charles de Gaulle, 44700 Orvault, France
+StopArea:PBFF , Route de Paimboeuf, 44340 Bouguenais, France
+StopArea:EMBE , 25 Allée de l'Embellie, 44300 Nantes, France
+StopArea:PBOT , 135 Boulevard François Mitterrand, 44800 Saint-Herblain, France
+StopArea:REDR , 9-11 Rue des Rédras, 44120 Vertou, France
+StopArea:VINE , 27-29 Rue Alexandre Fourny, 44230 Saint-Sébastien-sur-Loire, France
+StopArea:RNTI , 21-23 Rue de la Cadoire, 44980 Sainte-Luce-sur-Loire, France
+StopArea:CCHA , Promenade du Couchant, 44300 Nantes, France
+StopArea:THCE , 1 Rue de Carquefou, 44470 Thouaré-sur-Loire, France
+StopArea:SVAU , 66 Chemin de la Boisbonnière, 44300 Nantes, France
+StopArea:CLAM , 63B Rue Vincent Auriol, 44800 Saint-Herblain, France
+StopArea:CVRN , 9-11 Avenue des Thébaudières, 44800 Saint-Herblain, France
+StopArea:GCHE , 142 Route de Gachet, 44300 Nantes, France
+StopArea:SECH , Schoelcher, 44800 Saint-Herblain, France
+StopArea:LCMB , 57 Rue des Fleurs, 44220 Couëron, France
+StopArea:HOSE , 1 Avenue des Muses, 44470 Carquefou, France
+StopArea:PDOU , 26-28 Chemin de la Boisbonnière, 44300 Nantes, France
+StopArea:RBAL , 91-97 Rue Beau Soleil, 44340 Bouguenais, France
+StopArea:ARCA , 28 Rue Pierre Blard, 44800 Saint-Herblain, France
+StopArea:JEVV , 17 Rue Voltaire, 44000 Nantes, France
+StopArea:PIPA , 16-18 Rue de la Mitrie, 44000 Nantes, France
+StopArea:BDUC , 51 Boulevard Victor Hugo, 44200 Nantes, France
+StopArea:LGTH , 1 Rue Maurice Lagathu, 44400 Rezé, France
+StopArea:BOCE , 15-19 Rue Aristide Briand, 44340 Bouguenais, France
+StopArea:GBNI , 36 Chemin de la Guiblinière, 44300 Nantes, France
+StopArea:GULO , 93 Rue de la Classerie, 44400 Rezé, France
+StopArea:PTYY , 75 Route du Vignoble, 44120 Vertou, France
+StopArea:CRAI , 11 Rue de la Maurienne, 44470 Thouaré-sur-Loire, France
+StopArea:LLOR , 37 Rue Bobby Sands, 44800 Saint-Herblain, France
+StopArea:NOZO , 21-27 D11, 44860 Saint-Aignan-Grandlieu, France
+StopArea:HVNA , Place de l'Hôtel de ville, 44000 Nantes, France
+StopArea:SAPI , 136-138 Route de la Gare, 44120 Vertou, France
+StopArea:CHME , 408 Rue des Landes de la Plée, 44115 Basse-Goulaine, France
+StopArea:GRLI , 2-6 Rue Voltaire, 44000 Nantes, France
+StopArea:BTRA , 41 Route de la Chapelle-sur-Erdre, 44300 Nantes, France
+StopArea:ESSO , 64 Quai Emile Cormerais, 44800 Saint-Herblain, France
+StopArea:JCAR , 11-13 Avenue Jacques Cartier, 44800 Saint-Herblain, France
+StopArea:PGUY , 17 Rue Jean Jaurès, 44800 Saint-Herblain, France
+StopArea:DIDE , 77 Rue du Château de Rezé, 44400 Rezé, France
+StopArea:PRSS , 33 Rue du Pressoir, 44860 Saint-Aignan-Grandlieu, France
+StopArea:CALI , 17-19 Rue de la Californie, 44400 Rezé, France
+StopArea:PCEN , 70-96 D965, 44880 Sautron, France
+StopArea:LRHE , 79 Avenue du Bout des Landes, 44300 Nantes, France
+StopArea:PVIL , 39 Rue du Petit Village, 44800 Saint-Herblain, France
+StopArea:BATI , 318 Route de Saint-Joseph, 44300 Nantes, France
+StopArea:SBSA , 34-36 Boulevard Henry Orrion, 44000 Nantes, France
+StopArea:TNVA , 12 Rue de la Chabossière, 44340 Bouguenais, France
+StopArea:MSSI , 60 Boulevard du Val de Chézine, 44800 Saint-Herblain, France
+StopArea:GDNN , 35 Route de la Gendronnerie, 44860 Saint-Aignan-Grandlieu, France
+StopArea:SAIG , 51 Boulevard Saint-Aignan, 44100 Nantes, France
+StopArea:SLCE , 27 Rue Jean Moulin, 44980 Sainte-Luce-sur-Loire, France
+StopArea:HODI , Hôtel-Dieu, 44000 Nantes, France
+StopArea:OCE87481408, Gare de Vertou, 44120 Vertou, France
+StopPoint:OCETrain TER-87481416, 9 Encloses Street, 44690 La Haie-Fouassière, France
+StopArea:OCE87481416, 9 Encloses Street, 44690 La Haie-Fouassière, France
+StopPoint:OCETrain TER-87481408, Gare de Vertou, 44120 Vertou, France

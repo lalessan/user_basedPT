@@ -1,0 +1,61 @@
+﻿route_id,route_short_name,route_long_name,route_desc,route_type
+1-0,1,François Mitterrand / Jamet - Beaujoire / Ranzay,,0
+2-0,2,Orvault Grand Val - Gare de Pont Rousseau,,0
+3-0,3,Marcel Paul - Neustrie,,0
+3B-0,3B,Marcel Paul - Neustrie,,3
+4-0,4,Foch - Cathédrale - Porte de Vertou,,0
+11-0,11,Tertre - Perray,,3
+12-0,12,Colinière / Jules Verne - Beauséjour,,3
+23-0,23,Haluchère Batignolles - Mendès France - Bellevue,,3
+25-0,25,Ecole Centrale - Audencia - Gare de Chantenay,,3
+26-0,26,Jonelière - Hôtel de Région,,3
+27-0,27,La Herdrie - Pirmil,,3
+28-0,28,Vertou - Pirmil,,3
+29-0,29,La Herdrie - Pirmil,,3
+30-0,30,Savarières - Trentemoult,,3
+33-0,33,Robinière / Aufrère - Ecpace Diderot,,3
+36-0,36,Gréneraie - Croix Jeannette,,3
+39-0,39,Chalonges - Pirmil,,3
+42-0,42,Vertou - Pirmil,,3
+47-0,47,Pégers / Grande Noëlle - Vertou,,3
+54-0,54,Marcel Paul - Commerce,,3
+59-0,59,Mendès France - Bellevue - Bout des Landes,,3
+66-0,66,Babinière - Ecole Centrale-Audencia,,3
+67-0,67,Le Cellier - Centre de Thouaré,,3
+68-0,68,St-Aignan de Grand Lieu - Brains,,3
+70-0,70,Gare de Chantenay - Bd de Doulon,,3
+73-0,73,Basse Indre - Rivière,,3
+74-0,74,Mendès France - Bellevue - Neustrie,,3
+75-0,75,Charbonneau - Facultés,,3
+77-0,77,Collège Sables d'Or - Haluchère - Batignolles,,3
+79-0,79,Orvault - Beauséjour,,3
+80-0,80,Chassay / Bellevue -  Fac de Droit,,3
+81-0,81,Mendès France - Bellevue - Gare Maritime,,3
+84-0,84,Sinière - Hermeland,,3
+85-0,85,Bois St-Lys - Haluchère - Batignolles,,3
+86-0,86,La Chapelle Aulnay/Coutancière - Bout des Pavés,,3
+87-0,87,Le Halleray - Toutes Aides,,3
+88-0,88,Bouaye / Brains / St-Léger - Neustrie,,3
+89-0,89,Le Cardo - Beauséjour,,3
+90-0,90,Sautron - Orvault - Morlière,,3
+91-0,91,Bac de Couëron/Couëron-Bougon - Mendès France - Bellevue,,3
+93-0,93,Hôpital Laënnec - Hauts de Couëron,,3
+95-0,95,Souchais - Haluchère - Batignolles,,3
+96-0,96,La Chapelle Aulnay - Beauséjour,,3
+97-0,97,Vertou - Trentemoult,,3
+98-0,98,St-Aignan de Grand Lieu - Gréneraie,,3
+99-0,99,Bac du Pellerin - Neustrie,,3
+C1-0,C1,Haluchère - Batignolles - Gare de Chantenay,,3
+C2-0,C2,Le Cardo - Commerce,,3
+C3-0,C3,Bd de la Baule/Mie St Herblain - Bd de Doulon/Gare SNCF sud,,3
+C4-0,C4,Les Sorinières - Gréneraie,,3
+C5-0,C5,Quai des Antilles - Gare SNCF Sud,,3
+C6-0,C6,Chantrerie Grandes Ecoles - Hermeland,,3
+C7-0,C7,Trianon / Clairais - Souillarderie,,3
+E1-0,E1,Couëron - Gare Maritime,,3
+E4-0,E4,Porte de Vertou - Vertou,,3
+E5-0,E5,Carquefou - Fac de Droit,,3
+E8-0,E8,Le Pellerin - Greneraie,,3
+LU-0,LU,Luciole - Luciole,,3
+NA-0,NA,Nantes Atlantique - Commerce,,3
+NL-0,NL,Trentemoult - Roquios - Gare Maritime,,4
