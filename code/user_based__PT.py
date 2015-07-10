@@ -20,6 +20,7 @@ from collections import Counter
 import numpy as np
 
 def create_adjacency_matrix(folder):
+    #To transform the files to the adjacency matrix format using AWK
     fichier=folder+"/stop_times.txt "
     fichier2=folder+"/adjacency2.txt "
     COMMAND0="kprice=$(awk -F', ' -vfield=trip_id 'NR==1{for(i=1;i<=NF;i++){if($i==field){print i;exit}}}' "+folder+"/stop_times.txt)"
@@ -41,8 +42,8 @@ class AutoVivification(dict):
             value = self[item] = type(self)()
             return value
         
-#this function define a range of dates
 def daterange(start_date, end_date):
+    #this function define a range of dates
     for n in range(int ((end_date +dt.timedelta(days=1)- start_date).days)):
         yield start_date + dt.timedelta(n)
         
@@ -62,6 +63,7 @@ def most_common_oneliner(L):
 
 import heapq
 def single_source_dijkstra(G,source,target=None,cutoff=None,weight='weight',route='route', route_type='route_type',penalty=5,mappa=0):
+    #the modified Dijkstra Algorithm
     if source==target:
         return ({source:0}, {source:[source]})
     dist = {}  # dictionary of final distances
@@ -165,6 +167,7 @@ def most_common(lst):
 import time
     
 class dataset:
+    # this class is initialised with a folder containing the files in GTFS standard format
     def __init__(self,folder):
         self.df_calendar=pd.read_csv(folder+'/calendar.txt',dtype='object')
         self.df_calendar_dates=pd.read_csv(folder+'/calendar_dates.txt',dtype='object')
@@ -182,6 +185,7 @@ class dataset:
         self.folder=folder
         
     def select_days(self, selected='weekday',nweeks=4):
+        #to select the range of dates. selected='weekdays' or 'weekends' and nweeks is the number of weeks in the window length
         map_service=dict(zip(self.df_trips.trip_id, self.df_trips.service_id)) #trip to service
         convert = lambda x: dt.datetime(year=int(str(x)[0:4]), month=int(str(x)[4:6]), day=int(str(x)[6:8]))
         self.df_calendar['start_date2']=self.df_calendar.start_date.apply(convert)
@@ -353,6 +357,7 @@ class dataset:
         plt.close()
         
     def parent_stations(self):
+        #map stops to parent stations
         self.df_stops['parent_station']=self.df_stops['parent_station'].replace(to_replace="",value=np.nan)
         self.df_stops['parent_station']=self.df_stops['parent_station'].fillna(self.df_stops.stop_id)
         self.map_parent=dict(zip(self.df_stops['stop_id'],self.df_stops['parent_station']))       
@@ -419,6 +424,7 @@ class dataset:
 
         
     def routes(self,minhour=8,maxhour=10):        
+        #average the behaviour between minhour and maxhour
         map_route=dict(zip(self.df_trips.trip_id,self.df_trips.route_id),dtype='object') #trip to route
         map_service=dict(zip(self.df_trips.trip_id, self.df_trips.service_id),dtype='object') #trip to service
         map_trip=dict(zip(self.df_trips.trip_id,self.df_trips.trip_headsign),dtype='object') #trip to headsign
@@ -534,7 +540,7 @@ class dataset:
         ofile.close()
         
     def shortest_paths(self,n_changes=3,minhour=8,maxhour=10): 
-
+        #calculate shortest paths
     #load the transfer time
         average_transfers_RATP=pd.read_csv('./Average_transfer_time.txt',dtype='object')
         map_transfers=defaultdict(dict)
@@ -570,6 +576,7 @@ class dataset:
         self.times,allpaths,modes,routetimes,routes1=all_paths_dijkstra(G,cutoff=3,weight='weight',penalty=5,mappa=map_transfers)
 
     def heatmap(self,selection=1):
+        #Compute the heatmap
         t=time.time()
         self.distances=defaultdict(dict)
         for a in self.times.keys():
