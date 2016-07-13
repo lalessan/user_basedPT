@@ -1,9 +1,5 @@
 # user_basedPT
 
-user_basedPT
-======
-
-|user_basedPT|
 
 - Reads GTFS data and represent it as a multilayer network
 - Compute shortest paths between pairs of stops
