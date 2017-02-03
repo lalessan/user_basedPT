@@ -4,7 +4,7 @@ This code is a Python development of the method proposed in the article: <br>[Al
 Royal Society open science 3.7 (2016): 160156.<br>](http://rsos.royalsocietypublishing.org/content/3/7/160156)
 
 The code performs the following tasks:
-- Reads GTFS data and represent it as a multilayer network
+- Reads GTFS data and represents it as a multilayer network
 - Compute shortest paths between pairs of stops
 - Plot 2D histograms of shortest paths time vs distance
 
