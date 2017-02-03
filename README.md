@@ -1,5 +1,5 @@
 # user_basedPT
-This code is a Python development of the method proposed in the article: <br>[Alessandretti Laura, Márton Karsai, and Laetitia Gauvin. <br>
+A Python development of the method proposed in the article: <br>[Alessandretti Laura, Márton Karsai, and Laetitia Gauvin. <br>
 "User-based representation of time-resolved multimodal public transportation networks." <br>
 Royal Society open science 3.7 (2016): 160156.<br>](http://rsos.royalsocietypublishing.org/content/3/7/160156)
 
